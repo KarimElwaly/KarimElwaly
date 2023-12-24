@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
-- 💬 Ask me about **ML & DL : Python, Pandas, numpy, Matplotlib, Seaborn, Plotly, Sklearn, Keras, Tensorflow, OpenCV, Tensorboard, and MATLAB.**
+- 💬 Ask me about **ML & DL : Python, Pandas, numpy, Matplotlib, Sklearn, Keras,
+Tensorflow, OpenCV, Tensorboard, NLTK, SpaCy.**
 
 - 📫 How to reach me **karimelwaly@gmail.com**
 
